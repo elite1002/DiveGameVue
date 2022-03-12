@@ -1,6 +1,5 @@
 # Dice-game(Casino)
 
-## Alpha Interface
 
 ## Project setup
 ```
